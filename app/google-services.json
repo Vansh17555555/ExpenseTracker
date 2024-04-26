@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450994626624",
+    "firebase_url": "https://spendify-8d13f-default-rtdb.firebaseio.com",
+    "project_id": "spendify-8d13f",
+    "storage_bucket": "spendify-8d13f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450994626624:android:6f241f048421ed4c09bfa5",
+        "android_client_info": {
+          "package_name": "com.example.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450994626624-3p2h80v6drmt5u2iufsoguefk5icvjht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wjF9TW-ZUYUV1HobzU3VZht07GVnO48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450994626624-3p2h80v6drmt5u2iufsoguefk5icvjht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
